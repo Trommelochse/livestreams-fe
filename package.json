@@ -1,0 +1,14 @@
+{
+  "name": "livestream-page",
+  "version": "1.0.0",
+  "description": "This app was bundled with [Parcel](https://parceljs.org/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.js -d build/output"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
